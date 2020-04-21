@@ -1,24 +1,24 @@
 = Fedora Silverblue User Guide
 
-Welcome to the Fedora Silverblue user guide!
+Wilkommen in der Silverblue Benutzereinführung!
 
 image::silverblue-logo.svg[Silverblue logo]
 
-_Fedora Silverblue_ is an immutable desktop operating system. It aims to be 
-extremely stable and reliable. It also aims to be an excellent platform for 
-developers and for those using container-focused workflows.
+_Fedora Silverblue_ ist ein unveränderliches Desktop-Betriebssystem. Es zielt darauf ab 
+extrem stabil und verlässlich zu sein. Auch will es eine herausragende Plattform für 
+Entwickler sein, und für jene welche Container-fokussierte Workflows benutzen.
 
 [[introduction]]
-== Introduction to Silverblue
+== Heranführung zu Silverblue
 
-Silverblue is a variant of Fedora Workstation. It looks, feels and behaves like 
-a regular desktop operating system, and the experience is similar to what you 
-find with a standard Fedora Workstation.
+Silverblue ist eine Variante von Fedora Workstation. Es schaut aus, fühlt sich so an und verhält sich wie 
+ein normales Desktop-Betriebssystem, auch die Erfahrung, die du machst ist gleich der, 
+die du auch mit dem normalen Fedora Workstation machst.
 
-However, unlike other operating systems, Silverblue is immutable. This means 
-that every installation is identical to every other installation of the same 
-version. The operating system that is on disk is exactly the same from one 
-machine to the next, and it never changes as it is used.
+Wie auch immer, anders als andere Betriebssysteme, ist Silverblue unveränderlich. Das bedeuted 
+das jede Installation Installation von Silverblue ist identisch zu jeder anderen Installation der selben
+Version. Das Betriebssystem,das auf deiner Festplatte ist genau die gleiche, 
+wie auf jeder anderen Maschine, und die Benutzung verändert sich nie.
 
 Silverblue's immutable design is intended to make it more stable, less prone to 
 bugs, and easier to test and develop. Finally, Silverblue's immutable design 
