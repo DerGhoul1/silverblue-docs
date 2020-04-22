@@ -5,32 +5,33 @@ Wilkommen in der Silverblue Benutzereinführung!
 image::silverblue-logo.svg[Silverblue logo]
 
 _Fedora Silverblue_ ist ein unveränderliches Desktop-Betriebssystem. Es zielt darauf ab 
-extrem stabil und verlässlich zu sein. Auch will es eine herausragende Plattform für 
+sehr stabil und verlässlich zu sein. Auch will es eine herausragende Plattform für 
 Entwickler sein, und für jene welche Container-fokussierte Workflows benutzen.
 
 [[introduction]]
 == Heranführung zu Silverblue
 
 Silverblue ist eine spezielle Variante von Fedora Workstation. Es schaut aus, fühlt sich so an und verhält sich wie 
-ein normales Desktop-Betriebssystem, auch die Erfahrung, die du machst ist gleich der, 
+das normale Desktop-Betriebssystem, auch die Erfahrung, die du machst ist gleich der, 
 die du auch mit dem normalen Fedora Workstation machst.
 
 Wie auch immer, anders als andere Betriebssysteme, ist Silverblue unveränderlich. Das bedeuted 
-das jede Installation Installation von Silverblue ist identisch zu jeder anderen Installation der selben
+das jede Installation von Silverblue ist identisch zu jeder anderen Installation der selben
 Version. Das Betriebssystem,das auf deiner Festplatte ist genau die gleiche, 
-wie auf jeder anderen Maschine, und die Benutzung verändert sich nie.
+wie auf jeder anderen Festplatte auf der es installiert wird, und die Benutzung verändert sich dadurch nie.
 
-Silverblue's unveränderliches Design macht it stabiler, weniger fehleranfällig 
+Silverblue's unveränderliches Design macht es stabiler, weniger fehleranfällig 
 und einfacher zu testen und zu entwickeln. Schlussendlich sorgt Silverblue's unveränderliches 
 Design auch dafür die perfekte Plattform für Containerisierte Apps 
-und Containerbasierte Software zu entwickeln. In jedem Fall 
+und Containerbasierte Software zu entwickeln. Darüberhinaus 
 werden Apps und Container getrennt vom Host-System gehalten, 
-dass sorgt für Stabilität und Verlässlichkeit.
+was für Stabilität und Verlässlichkeit sorgt.
 
-Silverblue's core technologies have some other helpful features. OS updates are 
-fast and there's no waiting around for them to install: just reboot as normal 
-to start using the next version. With Silverblue, it is also possible to roll 
-back to the previous version of the operating system, if something goes wrong.
+Silverblue's Kerntechnologien haben andere hilfreiche Funktionen. 
+Betriebssystemupdates sind schnell und ohne Wartezeit, bis sie installiert sind, 
+sondern einfach normal neustarten um die nächste Version zu benutzen.
+Mit Silverblue ist es sogar möglich zur vorherigen Betriebssystem-Version zu wechseln, 
+für den Fall, dass etwas schiefgegangen sein sollte.
 
 [[this-guide]]
 == Über diese Einführung
@@ -38,7 +39,7 @@ back to the previous version of the operating system, if something goes wrong.
 In den meisten Teilen verhält sich Silverblue wie eine 
 Standard-Fedora-Workstation-Installation und die https://docs.fedoraproject.org/[Standard-Fedora-Dokumentation] 
 kann dazu verwendet werden. Diese Anleitung behandelt nur jene Bereiche von Silverblue, 
-die sich vom normalen Fedora Workstation unterscheidet, 
+die sich vom normalen Fedora Workstation unterscheiden, 
 dazu gehört:
 
 * link:installation[Das Installieren des Betriebssystems]
