@@ -37,13 +37,13 @@ back to the previous version of the operating system, if something goes wrong.
 
 In den meisten Teilen verhält sich Silverblue wie eine 
 Standard-Fedora-Workstation-Installation und die https://docs.fedoraproject.org/[Standard-Fedora-Dokumentation] 
-kann dazu verwendet werden. Diese Anleitung behandelt jene Gebiete, 
-in denen sich Silverblue von Fedora Workstation unterscheidet, 
+kann dazu verwendet werden. Diese Anleitung behandelt nur jene Bereiche von Silverblue, 
+die sich vom normalen Fedora Workstation unterscheidet, 
 dazu gehört:
 
-* link:installation[Installieren des Betriebssystems]
-* link:getting-started[Installieren von Apps und Software]
-* link:updates-upgrades-rollbacks[Betriebssystem-Upgrades und -Rücksprünge zum vorherigen]
+* link:installation[Das Installieren des Betriebssystems]
+* link:getting-started[Das Installieren von Apps und Software]
+* link:updates-upgrades-rollbacks[Die Betriebssystem-Upgrades und -Rücksprünge]
 
 Die Zielgruppe für diese Einführung sind neue Nutzer, von welchen nicht erwartet wird 
 spezielle Kenntnisse oder technisches Wissen über Silverblue's Struktur zu haben. 
