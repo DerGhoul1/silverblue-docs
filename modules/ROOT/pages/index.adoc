@@ -1,5 +1,4 @@
 = Fedora Silverblue Einführung
-= Fedora Silverblue User Guide
 
 Wilkommen in der Silverblue Benutzereinführung!
 
@@ -12,7 +11,7 @@ Entwickler sein, und für jene welche Container-fokussierte Workflows benutzen.
 [[introduction]]
 == Heranführung zu Silverblue
 
-Silverblue ist eine Variante von Fedora Workstation. Es schaut aus, fühlt sich so an und verhält sich wie 
+Silverblue ist eine spezielle Variante von Fedora Workstation. Es schaut aus, fühlt sich so an und verhält sich wie 
 ein normales Desktop-Betriebssystem, auch die Erfahrung, die du machst ist gleich der, 
 die du auch mit dem normalen Fedora Workstation machst.
 
@@ -21,12 +20,12 @@ das jede Installation Installation von Silverblue ist identisch zu jeder anderen
 Version. Das Betriebssystem,das auf deiner Festplatte ist genau die gleiche, 
 wie auf jeder anderen Maschine, und die Benutzung verändert sich nie.
 
-Silverblue's immutable design is intended to make it more stable, less prone to 
-bugs, and easier to test and develop. Finally, Silverblue's immutable design 
-also makes it an excellent platform for containerized apps as well as 
-container-based software development. In each case, apps and 
-containers are kept separate from the host system, improving stability and 
-reliability.
+Silverblue's unveränderliches Design macht it stabiler, weniger fehleranfällig 
+und einfacher zu testen und zu entwickeln. Schlussendlich sorgt Silverblue's unveränderliches 
+Design auch dafür die perfekte Plattform für Containerisierte Apps 
+und Containerbasierte Software zu entwickeln. In jedem Fall 
+werden Apps und Container getrennt vom Host-System gehalten, 
+dass sorgt für Stabilität und Verlässlichkeit.
 
 Silverblue's core technologies have some other helpful features. OS updates are 
 fast and there's no waiting around for them to install: just reboot as normal 
@@ -34,12 +33,13 @@ to start using the next version. With Silverblue, it is also possible to roll
 back to the previous version of the operating system, if something goes wrong.
 
 [[this-guide]]
-== About this guide
+== Über diese Einführung
 
-In most cases, Silverblue behaves like a standard Fedora Workstation 
-installation, and the https://docs.fedoraproject.org/[standard Fedora 
-documentation] can be used. This guide covers those areas where Silverblue 
-differs from a standard Fedora Workstation, including:
+In den meisten Teilen verhält sich Silverblue wie eine 
+Standard-Fedora-Workstation-Installation und die https://docs.fedoraproject.org/[Standard-Fedora-Dokumentation] 
+kann dazu verwendet werden. Diese Anleitung behandelt jene Gebiete, 
+in denen sich Silverblue von Fedora Workstation unterscheidet, 
+dazu gehört:
 
 * link:installation[Installieren des Betriebssystems]
 * link:getting-started[Installieren von Apps und Software]
