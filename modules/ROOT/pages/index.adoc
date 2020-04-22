@@ -40,11 +40,11 @@ installation, and the https://docs.fedoraproject.org/[standard Fedora
 documentation] can be used. This guide covers those areas where Silverblue 
 differs from a standard Fedora Workstation, including:
 
-* link:installation[OS installation]
-* link:getting-started[Installing apps and software]
-* link:updates-upgrades-rollbacks[OS upgrades and rollbacks]
+* link:installation[Installieren des Betriebssystems]
+* link:getting-started[Installieren von Apps und Software]
+* link:updates-upgrades-rollbacks[Betriebssystem-Upgrades und -Rücksprünge zum vorherigen]
 
-The primary audience for these docs are new users, who aren't expected to have 
-specialist knowledge or technical knowledge about Silverblue's internals. 
-However, some background link:technical-information[technical information] is 
-provided, for those who are interested and want to learn more.
+Die Zielgruppe für diese Einführung sind neue Nutzer, von welchen nicht erwartet wird 
+spezielle Kenntnisse oder technisches Wissen über Silverblue's Struktur zu haben. 
+Trotzdem, sind hier einige Hintergünde zur link:technical-information[technischen Dokumentation] zur Verfügung gestellt,
+für die Interessierten und die die mehr darüber lernen wollen.
