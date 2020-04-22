@@ -1,3 +1,4 @@
+= Fedora Silverblue Einführung
 = Fedora Silverblue User Guide
 
 Welcome to the Fedora Silverblue user guide!
@@ -46,5 +47,5 @@ differs from a standard Fedora Workstation, including:
 
 Die Zielgruppe für diese Einführung sind neue Nutzer, von welchen nicht erwartet wird 
 spezielle Kenntnisse oder technisches Wissen über Silverblue's Struktur zu haben. 
-Trotzdem, sind hier einige Hintergünde zur link:technical-information[technischen Dokumentation] zur Verfügung gestellt,
-für die Interessierten und die die mehr darüber lernen wollen.
+Trotzdem werden hier einige Hintergünde zur link:technical-information[technischen Dokumentation] zur Verfügung gestellt,
+für alle Interessierten und die die mehr darüber lernen wollen.
