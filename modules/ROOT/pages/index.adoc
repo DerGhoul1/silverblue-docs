@@ -27,9 +27,9 @@ und Containerbasierte Software zu entwickeln. Darüberhinaus
 werden Apps und Container getrennt vom Host-System gehalten, 
 was für Stabilität und Verlässlichkeit sorgt.
 
-Silverblue's Kerntechnologien haben andere hilfreiche Funktionen. 
-Betriebssystemupdates sind schnell und ohne Wartezeit, bis sie installiert sind, 
-sondern einfach normal neustarten um die nächste Version zu benutzen.
+Silverblue's Kerntechnologien haben zudem hilfreiche Funktionen. 
+Betriebssystemupdates sind schnell und ohne Wartezeit: 
+einfach neustarten um die nächste Version zu benutzen.
 Mit Silverblue ist es sogar möglich zur vorherigen Betriebssystem-Version zu wechseln, 
 für den Fall, dass etwas schiefgegangen sein sollte.
 
